@@ -20,10 +20,9 @@ to evaluate, for instance, the improvement of movement performances,
 to quantify and provide feedback of skill learning
 or to quantify movement adaptations and pathologies.
 Additionally, work on human-robot interaction and 
-the dynamics of face expressions with Shannon entropy
-will be presented.
+the dynamics of face expressions will be presented.
 
-# Bio
+# Biography
 Miguel Xochicale completed a four year Ph.D. in Computer Engineering
 at University of Birmingham UK in 2018 where his contribution to knowledge 
 are in areas of human-humanoid interaction, nonlinear analysis and movement variability.
@@ -34,18 +33,26 @@ Prior to that, he was a research assistant in robotics
 at the National Institute of Astrophysics, Optics and Electronics (INAOE), 
 Mexico in 2013
 and a teaching assistant in Mechatronic Engineering and related subjects
-in four universities in Mexico (2006- 2012).
+in four universities in Mexico between 2006 to 2012.
 He received his M.Sc. degree in Signal Processing from 
 INAOE Mexico 2006
 and a B.Sc. degree in Electronics from 
 Puebla Institute of Technology Mexico 2004.
 
 He is highly motivated with passion for robotics, nonlinear dynamics and 
-deep learning with the ambition to advance AI research and 
-apply such concepts for the benefit of society.
+deep learning, with the ambition to advance AI research and 
+to apply such concepts for the benefit of society.
 
 
-# Open Access Slides 
-https://github.com/mxochicale/slides-03052019  
+# Licence and Citation
+The work is under Creative Commons Attribution-Share Alike license [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/).
+Hence, you are free to reuse it and modify it as much as you want
+and as long as you cite [this work](https://github.com/mxochicale/slides-03052019) 
+as original reference and you re-share your work under the same terms.
 
+# Contact 
+If you have specific questions about the content of this thesis, you can contact 
+[Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[slides-03052019]"). 
+If your question might be relevant to other people, please instead 
+[open an issue](https://github.com/mxochicale/slides-03052019/issues).
 
